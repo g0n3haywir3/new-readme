@@ -1,0 +1,2 @@
+this is my first try at Git
+hope im succesful and manage to learn how to use Git efficently.
